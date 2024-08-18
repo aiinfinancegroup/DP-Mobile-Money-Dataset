@@ -1,2 +1,2 @@
 # DP-Mobile-Money-Dataset
-This repo contains differentially privet synthetic mobile money transaction dataset generated using MoMTSim
+This repo contains a differentially private synthetic mobile money transaction dataset generated using MoMTSimDP
